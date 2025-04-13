@@ -12,6 +12,34 @@ public class EurekaServerApplication {
 		SpringApplication.run(EurekaServerApplication.class, args);
 		
 		System.out.println("Eureka server is up and running .........!");
+
+
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+
 	}
 
 }
