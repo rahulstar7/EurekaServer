@@ -13,6 +13,59 @@ public class EurekaServerApplication {
 		
 		System.out.println("Eureka server is up and running .........!");
 
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+
+	}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void qa()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void qa()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void qa()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void qa()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+
 
 public void dev()
 {
