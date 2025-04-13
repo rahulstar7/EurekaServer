@@ -31,6 +31,11 @@
 		<spring-cloud.version>2023.0.5</spring-cloud.version>
 	</properties>
 	<dependencies>
+	//This is QA task
+	<dependency>
+			<groupId>org.springframework.cloudsd</groupId>
+			<artifactId>spring-cloud-starter-netdssdflix-eureka-serverdhsd</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
