@@ -37,6 +37,82 @@ public void dev()
 public void dev()
 {
 		System.out.println("Eureka server is up and running .........!");
+		System.out.println("Eureka server is up and running .........!");
+
+
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+		System.out.println("Eureka server is up and running .........!");
+
+
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
+
+}
+public void dev()
+{
+		System.out.println("Eureka server is up and running .........!");
 
 }
 
